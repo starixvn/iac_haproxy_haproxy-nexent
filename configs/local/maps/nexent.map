@@ -1,7 +1,7 @@
+s1-admin-site.nexdev.net nexent_ne_s1_admin_site_service_LOCAL_be
 s1-payment-service.nexdev.net nexent_ne_s1_payment_service_LOCAL_be
 third-party-sw.nexdev.net nexent_ne_s1_third_party_seamless_wallet_LOCAL_be
 third-party-service.nexdev.net nexent_ne_s1_third_party_service_LOCAL_be
-s1-admin.nexdev.net nexent_ne_s1_admin_site_service_LOCAL_be
 s1-member-site.nexdev.net nexent_ne_s1_member_site_service_LOCAL_be
 s1-hangfire-service.nexdev.net nexent_ne_s1_hangfire_service_LOCAL_be
 s1-config-service.nexdev.net nexent_ne_s1_config_service_LOCAL_be
