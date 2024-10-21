@@ -16,8 +16,7 @@ RUN cp /srv/haproxy-default/configs/$ENV/00-global-defaults.cfg /usr/local/etc/h
 RUN cat /usr/local/etc/haproxy/configs/$ENV/*.cfg > /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp
 RUN cp /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp /usr/local/etc/haproxy/haproxy.cfg
 RUN cp /srv/haproxy-default/whitelisted.ips /etc/haproxy/whitelisted.ips
-RUN cp /srv/haproxy-default/certs/nexdev.net.pem /etc/haproxy/nexdev.net.pem
-RUN cp /srv/haproxy-default/certs/nexcel.vn.pem /etc/haproxy/nexcel.vn.pem
+RUN cp /srv/haproxy-default/certs/*.pem /etc/haproxy/
 RUN mkdir /usr/local/etc/haproxy/maps
 RUN cat /usr/local/etc/haproxy/configs/$ENV/maps/*.map > /usr/local/etc/haproxy/maps/hosts.map
 #RUN cp /usr/local/etc/haproxy/configs/$ENV/special-maps/vg3-game-proxy.map /usr/local/etc/haproxy/maps/vg3-game-proxy.map
