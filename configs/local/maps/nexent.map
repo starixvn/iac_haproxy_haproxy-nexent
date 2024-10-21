@@ -1,3 +1,5 @@
+third-party-sw.nexdev.net nexent_ne_s1_third_party_seamless_wallet_LOCAL_be
+third-party-sw.starixwork.net nexent_ne_s1_third_party_seamless_wallet_LOCAL_be
 s1-member-site.nexdev.net nexent_ne_s1_member_site_api_service_LOCAL_be
 third-party-bet-history.nexdev.net nexent_ne_s1_third_party_bet_history_LOCAL_be
 s1-common-service.nexdev.net nexent_ne_s1_common_service_LOCAL_be
@@ -18,7 +20,6 @@ s1-hangfire-service.nexdev.net nexent_ne_s1_hangfire_service_LOCAL_be
 s1-payment-service.nexdev.net nexent_ne_s1_payment_service_LOCAL_be
 s1-admin-api.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_be
 s1-admin-site.nexdev.net nexent_ne_s1_admin_site_service_LOCAL_be
-third-party-sw.nexdev.net nexent_ne_s1_third_party_seamless_wallet_LOCAL_be
 s1-config-service.nexdev.net nexent_ne_s1_config_service_LOCAL_be
 apiserverflaporcrash.nexdev.net nexent_ne_flap_crash_game_api_server_LOCAL_be
 socketflaporcrash.nexdev.net nexent_ne_flap_crash_game_socket_LOCAL_be
