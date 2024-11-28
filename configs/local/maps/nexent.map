@@ -1,3 +1,4 @@
+s1-hangfire-service.nexdev.net nexent_ne_s1_hangfire_service_LOCAL_be
 s1-static-back-up.nexdev.net nexent_ne_asset_site_back_up_LOCAL_be
 m-s1-player-site-local5.nexdev.net nexent_ne_s1_ps_nova88_mobile_service_LOCAL_5_be
 s1-static.nexdev.net nexent_ne_asset_site_LOCAL_be
@@ -43,7 +44,6 @@ s1-simulator-api1.nexdev.net nexent_ne_s1_simulator_api_LOCAL_1_be
 s1-simulator-api.nexdev.net nexent_ne_s1_simulator_api_LOCAL_be
 s1-report-service.nexdev.net nexent_ne_s1_report_service_LOCAL_be
 s1-store-service.nexdev.net nexent_ne_s1_store_service_LOCAL_be
-s1-hangfire-service.nexdev.net nexent_ne_s1_hangfire_service_LOCAL_be
 s1-config-service.nexdev.net nexent_ne_s1_config_service_LOCAL_be
 apiserverflaporcrash.nexdev.net nexent_ne_flap_crash_game_api_server_LOCAL_be
 socketflaporcrash.nexdev.net nexent_ne_flap_crash_game_socket_LOCAL_be
