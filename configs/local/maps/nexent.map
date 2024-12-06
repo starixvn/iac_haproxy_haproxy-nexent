@@ -1,3 +1,8 @@
+s1-admin-api-local4.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_4_be
+s1-admin-api-local3.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_3_be
+s1-admin-api-local2.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_2_be
+s1-admin-api-local1.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_1_be
+test.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_be
 third-party-service1.starixnet.com nexent_ne_s1_third_party_service_LOCAL_1_be
 s1-alpha-api-service1.starixnet.com nexent_ne_s1_alpha_api_service_LOCAL_1_be
 s1-admin-site5.starixnet.com nexent_ne_s1_admin_site_service_LOCAL_5_be
@@ -14,11 +19,6 @@ s1-admin-site-local2.nexdev.net nexent_ne_s1_admin_site_service_LOCAL_2_be
 s1-admin-site-1.nexdev.net nexent_ne_s1_admin_site_service_LOCAL_1_be
 s1-admin-site-1.starixnet.com nexent_ne_s1_admin_site_service_LOCAL_1_be
 s1-admin-site.nexdev.net nexent_ne_s1_admin_site_service_LOCAL_be
-s1-admin-api-local4.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_4_be
-s1-admin-api-local3.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_3_be
-s1-admin-api-local2.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_2_be
-s1-admin-api-local1.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_1_be
-s1-admin-api.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_be
 third-party-settle-worker.nexdev.net nexent_ne_s1_third_party_settle_worker_LOCAL_be
 sbsports-odds-api.nexdev.net nexent_ne_s1_sabasports_odds_direct_api_LOCAL_be
 s1-rewards-member3.nexdev.net nexent_ne_s1_reward_member_service_LOCAL_4_be
