@@ -1,3 +1,4 @@
+s1-configsv-old.nexdev.net nexent_ne_s1_config_service_LOCAL_be
 s1-admin-api-local4.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_4_be
 s1-admin-api-local3.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_3_be
 s1-admin-api-local2.nexdev.net nexent_ne_s1_admin_site_api_service_LOCAL_2_be
@@ -46,7 +47,6 @@ s1-simulator-api1.nexdev.net nexent_ne_s1_simulator_api_LOCAL_1_be
 s1-simulator-api.nexdev.net nexent_ne_s1_simulator_api_LOCAL_be
 s1-report-service.nexdev.net nexent_ne_s1_report_service_LOCAL_be
 s1-store-service.nexdev.net nexent_ne_s1_store_service_LOCAL_be
-s1-config-service.nexdev.net nexent_ne_s1_config_service_LOCAL_be
 apiserverflaporcrash.nexdev.net nexent_ne_flap_crash_game_api_server_LOCAL_be
 socketflaporcrash.nexdev.net nexent_ne_flap_crash_game_socket_LOCAL_be
 socketserverflaporcrash.nexdev.net nexent_ne_flap_crash_game_socket_server_LOCAL_be
