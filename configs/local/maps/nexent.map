@@ -1,3 +1,4 @@
+s1-simulator-site.starixnet.com nexent_ne_s1_simulator_site_LOCAL_be
 s1-simulator-api1.starixnet.com nexent_ne_s1_simulator_api_LOCAL_1_be
 s1-simulator-api.starixnet.com nexent_ne_s1_simulator_api_LOCAL_be
 m-s1-player-site-local8.starixnet.com nexent_ne_s1_ps_nova88_mobile_service_LOCAL_8_be
@@ -46,7 +47,6 @@ third-party-service.nexdev.net nexent_ne_s1_third_party_service_LOCAL_be
 third-party-wagger.nexdev.net nexent_ne_s1_third_party_wagger_LOCAL_be
 s1-bonus-service.nexdev.net nexent_ne_s1_bonus_service_LOCAL_be
 s1-simulator-site1.nexdev.net nexent_ne_s1_simulator_site_LOCAL_1_be
-s1-simulator-site.nexdev.net nexent_ne_s1_simulator_site_LOCAL_be
 s1-report-service.nexdev.net nexent_ne_s1_report_service_LOCAL_be
 s1-store-service.nexdev.net nexent_ne_s1_store_service_LOCAL_be
 apiserverflaporcrash.nexdev.net nexent_ne_flap_crash_game_api_server_LOCAL_be
